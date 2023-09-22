@@ -12,5 +12,28 @@
   "supportedAppblockVersions": [
     "1.0.0"
   ],
-  "repoType": "mono"
+  "repoType": "mono",
+  "dependencies": {
+    "Block1": {
+      "directory": "Block1"
+    },
+    "Block2": {
+      "directory": "Block2"
+    },
+    "Block3": {
+      "directory": "Block3"
+    },
+    "Block4": {
+      "directory": "Block4"
+    },
+    "Block5": {
+      "directory": "Block5"
+    },
+    "Block6": {
+      "directory": "Block6"
+    },
+    "Block7": {
+      "directory": "Block7"
+    }
+  }
 }
