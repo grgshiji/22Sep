@@ -1,0 +1,16 @@
+{
+  "name": "22Sep",
+  "type": "package",
+  "blockId": "DF0rNhK6hBsQDYl8FpwAi",
+  "source": {
+    "https": null,
+    "ssh": null,
+    "branch": "block_22Sep"
+  },
+  "parentBlockIDs": [],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono"
+}
