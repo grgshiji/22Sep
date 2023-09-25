@@ -15,25 +15,41 @@
   "repoType": "mono",
   "dependencies": {
     "Block1": {
-      "directory": "Block1"
+      "directory": "Block1",
+      "versionId": "XipCjSluJKUAmbeSki3Zi",
+      "version": "0.0.1"
     },
     "Block2": {
-      "directory": "Block2"
+      "directory": "Block2",
+      "versionId": "Ps6MtyeQStwhN_B5zgcAB",
+      "version": "0.0.1"
     },
     "Block3": {
-      "directory": "Block3"
+      "directory": "Block3",
+      "versionId": "hZYJ2-fhgdpvFMHbwO4Y-",
+      "version": "0.0.2"
     },
     "Block4": {
-      "directory": "Block4"
+      "directory": "Block4",
+      "versionId": "JjJHzBJYywBFyh482xPzo",
+      "version": "0.0.1"
     },
     "Block5": {
-      "directory": "Block5"
+      "directory": "Block5",
+      "versionId": "AlVpjiVemzuKNCeJflr8N",
+      "version": "0.0.1"
     },
     "Block6": {
-      "directory": "Block6"
+      "directory": "Block6",
+      "versionId": "7ZbhPixU95LAQiBdfHokb",
+      "version": "0.0.1"
     },
     "Block7": {
-      "directory": "Block7"
+      "directory": "Block7",
+      "versionId": "LD3YEbp2QvEqm7rQpHkoL",
+      "version": "0.0.1"
     }
-  }
+  },
+  "version": "0.0.1",
+  "versionId": "0qGP_A5v3RLGM7ctsMMu9"
 }
